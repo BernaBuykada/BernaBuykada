@@ -22,15 +22,16 @@
 ### ⚙️ Tech Stack
 
 ### 💻 Programming Languages
-. ![C#](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eduyx&psig=AOvVaw3YnT_MBSmSstZb9Z1G2ZoI&ust=1761224766530000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDjk9nvt5ADFQAAAAAdAAAAABAE](https://docs.microsoft.com/en-us/dotnet/csharp/index)
-.
-.
-.
-.
-.
+. C#
+. Python
+. Php
+. Sql
+. Html
+. Css
+- Arduino
 
 ### ⚙️ Tools & Technologies
-.
+. 
 .
 .
 .
@@ -41,18 +42,17 @@
 
 ### 🏆 Awards & Projects
 
--
--
--
--
--
+- 🏆 One Idea One Project Competition Third Prize (2019)
+- 🏆 Eighth place in the Capture the Flag competition (2019)
+- 🏆 First place in the department and class of Information Technologies (2020)
+- 👩🏻‍🎓 Social security and phishing certificate from BTK Academy
 
 ---
 
 ### 💬 Let's Connect
 
--
--
+- 📧 Email: 
+- 💼 [Linkedn](https://www.linkedin.com/in/berna-b%C3%BCy%C3%BCkada-b7ab89267/)
 
 ---
 
